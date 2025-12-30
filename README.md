@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning AI ML tools, deep learning,  machine learning 
-
+AI/ML Software Engineer with expertise in developing and deploying machine learning models to solve complex problems. Skilled in Python, TensorFlow, PyTorch, and data-driven solutions. Experienced in the full ML lifecycle from data processing to model optimization. Passionate about leveraging AI to drive innovation and deliver impactful results. Always learning and eager to connect with others in the AI/ML space.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inzamam-iqbal-836906281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inzamamiqbal609@gmail.com) 
